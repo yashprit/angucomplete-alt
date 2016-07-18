@@ -1,5 +1,5 @@
 {
-  "name": "angucomplete-alt",
+  "name": "angu-complete",
   "version": "2.4.1",
   "description": "Awesome Autocompleteness for AngularJS",
   "author": "ghiden",
@@ -29,4 +29,3 @@
     "load-grunt-tasks": "~0.2.0"
   }
 }
-
